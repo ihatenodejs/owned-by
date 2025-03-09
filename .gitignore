@@ -41,7 +41,11 @@ yarn-error.log*
 next-env.d.ts
 
 # bun
+bun.lock
 bun.lockb
+
+# webstorm
+.idea/
 
 # misc
 package-lock.json
